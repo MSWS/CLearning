@@ -1,3 +1,2 @@
+*.exe
 /.vscode
-/fizzbuzz.exe
-/helloworld.exe
